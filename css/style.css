@@ -1,0 +1,169 @@
+
+            
+div{
+    border: 0px solid red;
+}   
+#change{
+    color: white;
+}
+
+p{
+
+    font-size: 15px;
+    color:black;
+    font-family: Arial, sans-serif;
+    text-align: auto;
+}
+h1{
+  font-size: 15px;
+}
+span{
+    font-size: 15px;
+    margin-top: 70px;
+}
+h4{
+    font-size: 20pxpx;
+    color:black;
+    font-family: Arial, sans-serif;
+    text-align: auto; 
+}
+#warning{
+border-radius: 60px;
+}
+.policy{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.div bolt{
+    color:white;
+
+}
+.policy button{
+    width: 5%;
+    align-self: flex-end;
+}
+.alart3{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    height: 100px;
+    background-color:#D815B612;
+}
+.alart3 button{
+    align-self: flex-end;
+}
+a {
+text-decoration: none;
+
+}
+
+#mar{
+background-color: lightgrey;
+height: 50PX;
+}
+#imgbanner {
+height: 30rem;
+
+
+}
+ img{
+padding-top: 30px;
+height: 300px;
+width: 250px;
+} 
+h5{
+text-align: left;
+color: black;
+}
+ul{
+text-align:left;
+color: black;
+}
+h6{
+margin-top: 40px;
+}
+
+.col-md img {
+transition: transform 0.5s ease;
+
+}
+.col-md:hover img{
+transform: scale(1.1) translate(-5%, -5%);
+background-color: tomato;
+
+}
+.col-md{
+display: inline-block;
+overflow: hidden;
+
+}
+#logo1{
+margin-bottom: 30px;
+margin-left: 10px;
+}
+#myImage{
+transition: filter 0.3s ease; 
+
+
+
+}
+#myImage.hover-effect {
+filter: hue-rotate(180deg);
+background-color: rgb(151, 29, 29);
+}
+
+.nav-links {
+display: flex;
+list-style: none;
+}
+
+.mb-2{
+text-align: left;
+}
+
+ @media (max-width:600px) {
+    .container-fluid{
+      width: 80%;
+    }
+ div h5{
+    text-align: center;
+ }
+
+ div h5{
+    text-align: center;
+ }
+   
+}
+
+
+@media (min-width:601px) {
+    .container-fluid{
+      width: 80%;
+    }
+    
+}
+
+@media (min-width:768px) {
+    .container-fluid{
+      width: 80%;
+    }
+   
+    
+}
+
+@media (min-width:992px) {
+    .container-fluid{
+      width: 80%;
+    }
+    
+}
+
+@media (min-width:12000px) {
+    .container-fluid{
+      width: 80%;
+    }
+    
+    
+} 
+/* new css */
